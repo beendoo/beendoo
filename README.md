@@ -21,8 +21,9 @@ Here are some ideas to get you started:
   ![csharp](https://img.shields.io/badge/c%20sharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
   ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
   ![amazonaws](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonawslogoColor=white)
-  ![github](https://img.shields.io/badge/github-81717.svg?&style=for-the-badge&logo=github&logoColor=white)
   ![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![github](https://img.shields.io/badge/github-81717.svg?&style=for-the-badge&logo=github&logoColor=white)
+  
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
