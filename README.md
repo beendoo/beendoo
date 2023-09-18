@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-
 <div align="center">
+  
+  ## Hi there 👋
+
   ![beendoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beendoo&show_icons=true&theme=radical)
+  
 </div>
 
