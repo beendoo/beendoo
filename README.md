@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ## Hi there 👋
+  # 👾 LEE SONGBEEN 👾
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
   ![beendoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beendoo&show_icons=true&theme=radical)
   
