@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   
   # 👾 LEE SONGBEEN 👾
 
-  ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![csharp](https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white) ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
+  ![github](https://img.shields.io/badge/github-81717.svg?&style=for-the-badge&logo=github&logoColor=white) ![visual%20studio%20code](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
