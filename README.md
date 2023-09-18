@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![csharp](https://img.shields.io/badge/c%20sharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+  ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
   ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
   ![amazonaws](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonawslogoColor=white)
   ![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
