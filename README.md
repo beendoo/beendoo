@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   ![github](https://img.shields.io/badge/github-81717.svg?&style=for-the-badge&logo=github&logoColor=white)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beendoo&layout=compact">
+  ""
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
