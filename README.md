@@ -24,13 +24,9 @@ Here are some ideas to get you started:
   ![amazonaws](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonawslogoColor=white)
   ![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![github](https://img.shields.io/badge/github-81717.svg?&style=for-the-badge&logo=github&logoColor=white)
-
-  <br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beendoo&layout=compact)
   
-  <br>
-
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
   ![beendoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beendoo&show_icons=true&theme=radical)
