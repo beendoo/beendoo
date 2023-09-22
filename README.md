@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beendoo&layout=compact&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beendoo&layout=compact&theme=nord&hide_border=true)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
-  ![beendoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beendoo&show_icons=true&theme=radical)
+  ![beendoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beendoo&show_icons=true&theme=nord)
   
 </div>
 
