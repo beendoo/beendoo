@@ -1,5 +1,5 @@
 <!--
-**beendoo/beendoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**butler-b/butler-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beendoo&layout=compact&theme=nightowl&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butler-b&layout=compact&theme=nightowl&hide_border=true)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbeen96)](https://solved.ac/songbeen96/)
 
-  ![beendoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beendoo&show_icons=true&theme=blue-green)
+  ![butler-b's GitHub stats](https://github-readme-stats.vercel.app/api?username=butler-b&show_icons=true&theme=blue-green)
   
 </div>
 
